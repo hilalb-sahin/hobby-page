@@ -1,8 +1,16 @@
 html{
     font-family: 'Roboto', sans-serif;
     width: 100%;
+    background-color: rgb(220, 220, 220);
 }
-
+li{
+    font-size:18px;
+    font-weight: 900;
+}
+p{
+    font-size: 18px;
+    max-width: 70%;
+}
 header{
     margin-top: 20px;
     background-color: rgb(78, 78, 255) ;
@@ -56,6 +64,3 @@ footer p {
     padding:20px
 }
 
-p{
-    max-width: 70%;
-}
